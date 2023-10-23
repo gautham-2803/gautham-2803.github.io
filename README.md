@@ -20,8 +20,11 @@ An HCI researcher passionate about leveraging ML and IoT to create assistive tec
 
 <br/>
 
-## 🗒️ I'm currently researching about....
+## 🗒️ I'm currently researching...
 
 <ul>
-  <li></li>
+  <li> Understanding the challenges faced by Blind and Low Vision People in collaborative exploration and building a prototype using ML to address it. <ul><li>Prototype is an Android application that is used for object detection using Yolov5. Currently, the app gives voice feedback on the labels. The code is <a href ="https://github.com/gautham-2803/Object-Detection">here</a></li></ul></li>
+<li>Exploring the challenges of social interactions between Blind and Low vision and sighted people and evaluating emotions to improve them. Read the proposal at [Proposal_Social_interactions.pdf] (https://github.com/gautham-2803/gautham-krishna-portfolio/files/13071856/Proposal_Social_interactions.pdf)
+</li>
 </ul>
+
