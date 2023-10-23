@@ -28,3 +28,5 @@ An HCI researcher passionate about leveraging ML and IoT to create assistive tec
 </li>
 </ul>
 
+## Prior Research 
+
