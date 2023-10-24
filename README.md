@@ -1,4 +1,4 @@
-# Gautham Krishna
+# Hi there! I'm Gautham Krishna
 <br />
 An HCI researcher passionate about leveraging ML and IoT to create assistive technology in health care and affective computing (emotions)
 
