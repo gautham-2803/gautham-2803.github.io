@@ -1,4 +1,11 @@
-<img src="https://github.com/gautham-2803/gautham-krishna-portfolio/assets/57102558/7b82a547-82b4-4538-bbc0-5f503c1c41f9" alt="my-banner">
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+ <img src="https://github.com/gautham-2803/gautham-krishna-portfolio/assets/57102558/7b82a547-82b4-4538-bbc0-5f503c1c41f9" alt="my-banner">
 
 # <center> Hi there! I'm Gautham Krishna </center>
 <br />
@@ -14,7 +21,7 @@ An HCI researcher passionate about leveraging ML and IoT to create assistive tec
   <li>Interests: Accessibility by leveraging ML, and IoT; Android Programming, Human Behavior Analysis, Psychology💻🧑‍💼</li>
 </ul>
 
-## Reach me at 📱
+## Connect with me 🤝
 <ul>
   <li>Email: gk2440@rit.edu or gauthamnotkrishna@gmail.com</li>
  <li>LinkedIn: linkedin.com/in/gautham-krishna-098278178/</li> 
