@@ -60,6 +60,8 @@ A fun research proposal was made to design a productivity speaker to monitor stu
   </li>
   <li> An independent and group study to assess the usability of <a href = "https://github.com/gautham-2803/gautham-krishna-portfolio/files/13102446/Spotify_KrishnaGautham.pdf">Spotify</a></li>
 
+  <li>A group study involving a methodological approach to understand the usability of two shopping websites used by Indian students in Rochester, NY. The study involved inquiring about the problems faced and proposing a possible solution prototype on Figma<a href="https://spiky-temple-8f0.notion.site/HCIN-620-Information-And-Interaction-Design-a5831d466a3240c881e5ec220c18c4da"> Click Here</a></li>
+
 
 </ul>
 
