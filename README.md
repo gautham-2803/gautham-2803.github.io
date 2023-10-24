@@ -51,11 +51,10 @@ An HCI researcher passionate about leveraging ML and IoT to create assistive tec
 ## Fun Stuff
 <ul>
   <li>
-    A fun research proposal was made to design a productivity speaker to monitor students who tend to procrastinate and encourage them to focus on the task at hand.
+    A fun research proposal was made to design a productivity speaker to monitor students who tend to procrastinate and encourage them to focus on the task at hand.</li>
     <ul>
       <li><a href="https://github.com/gautham-2803/gautham-krishna-portfolio/files/13100445/INSULTU.pdf">INSULTU Proposal</a></li>
       <li><a href="https://github.com/gautham-2803/gautham-krishna-portfolio/files/13100700/Study_Plan_Prototype.pdf"> Study Plan and High-Level Prototype</a></li>
-   
     </ul>
   </li>
 </ul>
@@ -63,4 +62,4 @@ An HCI researcher passionate about leveraging ML and IoT to create assistive tec
 
 
 
-[INSULTU.pdf]()
+
