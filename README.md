@@ -1,13 +1,9 @@
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
+
+
+
  <img src="https://github.com/gautham-2803/gautham-krishna-portfolio/assets/57102558/7b82a547-82b4-4538-bbc0-5f503c1c41f9" alt="my-banner">
 
-# <center> Hi there! I'm Gautham Krishna </center>
+#  Hi there! I'm Gautham Krishna
 <br />
 An HCI researcher passionate about leveraging ML and IoT to create assistive technology in health care and affective computing (emotions)
 
