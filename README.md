@@ -17,7 +17,7 @@ An HCI researcher passionate about leveraging ML and IoT to create assistive tec
   <li>Interests: Accessibility by leveraging ML, and IoT; Android Programming, Human Behavior Analysis, Psychology💻🧑‍💼</li>
 </ul>
 
-## Connect with me 🤝
+## 🤝 Connect with me 
 <ul>
   <li>Email: gk2440@rit.edu or gauthamnotkrishna@gmail.com</li>
  <li>LinkedIn: linkedin.com/in/gautham-krishna-098278178/</li> 
