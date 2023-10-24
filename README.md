@@ -33,7 +33,7 @@ An HCI researcher passionate about leveraging ML and IoT to create assistive tec
 </li>
 </ul>
 
-## Prior Research 🧠
+##  🧠 Prior Research
 <ul>
   <li> An Arduino prototype (group project) to measure anxiety levels by leveraging sweat, temperature, heartbeat, and accelerometer sensors and send an SOS alert. To know more, please read <a href="https://github.com/gautham-2803/gautham-krishna-portfolio/files/13095136/HCIN_722__Team_2.pdf">this</a> </li>
   <li>
@@ -54,7 +54,7 @@ A qualitative study was done to understand the different problems faced by inter
   <li> An annotated bibliography focused on people with visual impairments: <a href ="https://github.com/gautham-2803/gautham-krishna-portfolio/files/13101679/AB_KrishnaGautham.pdf"> Click Here </a></li>
 </ul>
 
-## Fun Stuff  🎉
+##  🎉 Fun Stuff 
 <ul>
   <li>
 A fun research proposal was made to design a productivity speaker to monitor students who tend to procrastinate and encourage them to focus on the task at hand.</li>
