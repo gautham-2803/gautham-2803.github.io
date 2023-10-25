@@ -6,7 +6,7 @@
 #  Hi there!
 <br />
 An HCI researcher passionate about leveraging ML and IoT to create assistive technology in health care and affective computing (emotions).
-Check out my resume at [Gautham Krishna.pdf](https://github.com/gautham-2803/gautham-2803.github.io/files/13171592/Gautham.Krishna.pdf)
+- Check out my resume at [Gautham Krishna.pdf](https://github.com/gautham-2803/gautham-2803.github.io/files/13171592/Gautham.Krishna.pdf)
 
 <br/>
 
