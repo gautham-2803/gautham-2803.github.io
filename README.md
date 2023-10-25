@@ -36,7 +36,7 @@ An HCI researcher passionate about leveraging ML and IoT to create assistive tec
     <li>Exploring the challenges of social interactions between blind and low-vision Vision and sighted people and evaluating emotions to improve them. Read the proposal at <a href ="https://github.com/gautham-2803/gautham-krishna-portfolio/files/13071856/Proposal_Social_interactions.pdf"> Proposal </a>
 </li>
 </ul>
-
+<br/>
 ##  🧠 Prior Research
 <ul>
   <li> An Arduino prototype (group project) to measure anxiety levels by leveraging sweat, temperature, heartbeat, and accelerometer sensors and send an SOS alert. To know more, please read <a href="https://github.com/gautham-2803/gautham-krishna-portfolio/files/13095136/HCIN_722__Team_2.pdf">this</a> </li>
@@ -57,7 +57,7 @@ A qualitative study was done to understand the different problems faced by inter
   </li>
   
 </ul>
-
+<br/>
 ##  🎉 Fun Stuff 
 <ul>
   <li>
