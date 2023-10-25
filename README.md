@@ -18,11 +18,11 @@ An HCI researcher passionate about leveraging ML and IoT to create assistive tec
 </ul>
 
 ## 🤝 Connect with me 
-<ul>
+
 <!--   - Email: <a href="mailto:gk2440@rit.edu">gk2440@rit.edu</a> or <a href="mailto:gauthamnotkrishna@gmail.com">gauthamnotkrishna@gmail.com</a></li> -->
-  - Email: mr7721@rit.edu or mililanirosare@gmail.com
- <li>LinkedIn: [linkedin.com/in/gautham-krishna-098278178/](https://www.linkedin.com/in/gautham-krishna-098278178/)</li> 
-</ul>
+- Email: [gk2440@rit.edu](mailto:gk2440@rit.edu) or mililanirosare@gmail.com
+- LinkedIn: [linkedin.com/in/gautham-krishna-098278178/](https://www.linkedin.com/in/gautham-krishna-098278178/)
+
 
 <br/>
 
