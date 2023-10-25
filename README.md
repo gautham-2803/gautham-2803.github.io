@@ -14,7 +14,7 @@ An HCI researcher passionate about leveraging ML and IoT to create assistive tec
   <li>Definitely not Batman 🦇</li>
   <li>Masters: Human-Computer Interaction, May 2024, RIT (United States)</li>
   <li>Bachelors: Information Technology, May 2020, SSNCE (India)</li>
-  <li>Interests: Accessibility by leveraging ML, and IoT; Android Programming, Human Behavior Analysis, Psychology💻🧑‍💼</li>
+  <li>Interests: Accessibility by leveraging ML, and IoT; Android Programming, Human Behavior Analysis, Psychology</li>
 </ul>
 
 <br/>
