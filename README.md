@@ -42,7 +42,7 @@ An HCI researcher passionate about leveraging ML and IoT to create assistive tec
 
 ##  🧠 Prior Research
 <ul>
-  <li> An Arduino prototype (group project) to measure anxiety levels by leveraging sweat, temperature, heartbeat, and accelerometer sensors and send an SOS alert. To know more, please read <a href="https://github.com/gautham-2803/gautham-krishna-portfolio/files/13095136/HCIN_722__Team_2.pdf">this</a> </li>
+  <li> An Arduino prototype (group project) to measure anxiety levels by leveraging sweat, temperature, heartbeat, and accelerometer sensors and send an SOS alert. To know more, please read <b><a href="https://github.com/gautham-2803/gautham-krishna-portfolio/files/13095136/HCIN_722__Team_2.pdf">this</a></b></li>
   <li>
     A group project to visualize the growth of electric fuel stations in the state of Washington using Tableau and to predict the shortest route from point A to B in the case of disasters using ArcGIS Pro.
     <ul>
