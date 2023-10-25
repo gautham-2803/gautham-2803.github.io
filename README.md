@@ -1,9 +1,9 @@
 
 
 
- <img src="https://github.com/gautham-2803/gautham-krishna-portfolio/assets/57102558/7b82a547-82b4-4538-bbc0-5f503c1c41f9" alt="my-banner">
+<img src="https://github.com/gautham-2803/gautham-krishna-portfolio/assets/57102558/7b82a547-82b4-4538-bbc0-5f503c1c41f9" alt="my-banner">
 
-#  Hi there! I'm Gautham Krishna
+#  Hi there! 
 <br />
 An HCI researcher passionate about leveraging ML and IoT to create assistive technology in health care and affective computing (emotions)
 
@@ -28,8 +28,12 @@ An HCI researcher passionate about leveraging ML and IoT to create assistive tec
 ## 🗒️ I'm currently researching...
 
 <ul>
-  <li> Understanding the challenges faced by blind and low-vision people in collaborative exploration and building a prototype using ML to address it. <ul><li>Prototype is an Android application that is used for object detection using Yolov5. Currently, the app gives voice feedback on the labels. The code is <a href ="https://github.com/gautham-2803/Object-Detection">here</a></li></ul></li>
-<li>Exploring the challenges of social interactions between blind and low-vision Vision and sighted people and evaluating emotions to improve them. Read the proposal at <a href ="https://github.com/gautham-2803/gautham-krishna-portfolio/files/13071856/Proposal_Social_interactions.pdf"> Proposal </a>
+    <li> Understanding the challenges faced by blind and low-vision people in collaborative exploration and building a prototype using ML to address it. 
+        <ul>
+            <li>Prototype is an Android application that is used for object detection using Yolov5. Currently, the app gives voice feedback on the labels. The code is <a href ="https://github.com/gautham-2803/Object-Detection">here</a>
+            </li>
+        </ul>
+    <li>Exploring the challenges of social interactions between blind and low-vision Vision and sighted people and evaluating emotions to improve them. Read the proposal at <a href ="https://github.com/gautham-2803/gautham-krishna-portfolio/files/13071856/Proposal_Social_interactions.pdf"> Proposal </a>
 </li>
 </ul>
 
@@ -51,23 +55,25 @@ A qualitative study was done to understand the different problems faced by inter
         <li><a href="https://github.com/gautham-2803/gautham-krishna-portfolio/files/13099567/Experimental.Study.Plan.pdf">Experimental Study Plan</a>
     </ul>
   </li>
-  <li> An annotated bibliography focused on people with visual impairments: <a href ="https://github.com/gautham-2803/gautham-krishna-portfolio/files/13101679/AB_KrishnaGautham.pdf"> Click Here </a></li>
+  
 </ul>
 
 ##  🎉 Fun Stuff 
 <ul>
   <li>
-A fun research proposal was made to design a productivity speaker to monitor students who tend to procrastinate and encourage them to focus on the task at hand.</li>
+      A fun research proposal was made to design a productivity speaker to monitor students who tend to procrastinate and encourage them to focus on the task at hand.
+  </li>
     <ul>
       <li><a href="https://github.com/gautham-2803/gautham-krishna-portfolio/files/13100445/INSULTU.pdf">INSULTU Proposal</a></li>
       <li><a href="https://github.com/gautham-2803/gautham-krishna-portfolio/files/13100700/Study_Plan_Prototype.pdf"> Study Plan and High-Level Prototype</a></li>
     </ul>
+
+  <li> An independent and group study to assess the usability of <a href = "https://github.com/gautham-2803/gautham-krishna-portfolio/files/13102446/Spotify_KrishnaGautham.pdf">Spotify</a>
   </li>
-  <li> An independent and group study to assess the usability of <a href = "https://github.com/gautham-2803/gautham-krishna-portfolio/files/13102446/Spotify_KrishnaGautham.pdf">Spotify</a></li>
 
   <li>A group study involving a methodological approach to understand the usability of two shopping websites used by Indian students in Rochester, NY. The study involved inquiring about the problems faced and proposing a possible solution prototype on Figma<a href="https://spiky-temple-8f0.notion.site/HCIN-620-Information-And-Interaction-Design-a5831d466a3240c881e5ec220c18c4da"> Click Here</a></li>
 
-
+<li> An annotated bibliography focused on people with visual impairments: <a href ="https://github.com/gautham-2803/gautham-krishna-portfolio/files/13101679/AB_KrishnaGautham.pdf"> Click Here </a></li>
 </ul>
 
 
