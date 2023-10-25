@@ -60,6 +60,7 @@ A qualitative study was done to understand the different problems faced by inter
   
 </ul>
 <br/>
+
 ##  🎉 Fun Stuff 
 <ul>
   <li>A fun research proposal was made to design a productivity speaker to monitor students who tend to procrastinate and encourage them to focus on the task at hand.
