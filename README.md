@@ -17,7 +17,7 @@ An HCI researcher passionate about leveraging ML and IoT to create assistive tec
   <li>Interests: Accessibility by leveraging ML, and IoT; Android Programming, Human Behavior Analysis, Psychology💻🧑‍💼</li>
 </ul>
 
-## 🤝 Connect with me 
+## Connect with me 
 
 <li> Email: <a href="mailto: gk2440@rit.edu">gk2440@rit.edu</a> or <a href="mailto: gauthamnotkrishna@gmail.com">gauthamnotkrishna@gmail.com</a></li> 
 <!-- - Email: gk2440@rit.edu or gauthamnotkrishna@gmail.com -->
@@ -26,25 +26,25 @@ An HCI researcher passionate about leveraging ML and IoT to create assistive tec
 
 <br/>
 
-## 🗒️ I'm currently researching...
+## I'm currently researching...
 
 <ul>
-    <li> Understanding the challenges faced by blind and low-vision people in collaborative exploration and building a prototype using ML to address it. 
+    <li> Understanding the challenges faced by blind and low-vision people in collaborative exploration and building a prototype using ML to address them
         <ul>
             <li>Prototype is an Android application that is used for object detection using Yolov5. Currently, the app gives voice feedback on the labels. The code is <a href ="https://github.com/gautham-2803/Object-Detection">here</a>
             </li>
         </ul>
     </li>
-    <li>Exploring the challenges of social interactions between blind and low-vision Vision and sighted people and evaluating emotions to improve them. Read the proposal at <a href ="https://github.com/gautham-2803/gautham-krishna-portfolio/files/13071856/Proposal_Social_interactions.pdf"> Proposal </a>
+    <li>Exploring the challenges of social interactions between blind and low-vision Vision and sighted people, and evaluating emotions to improve them. Read the proposal at <a href ="https://github.com/gautham-2803/gautham-krishna-portfolio/files/13071856/Proposal_Social_interactions.pdf"> Proposal </a>
   </li>
 </ul>
 <br/>
 
-##  🧠 Prior Research
+## Prior Research
 <ul>
-  <li> An Arduino prototype (group project) to measure anxiety levels by leveraging sweat, temperature, heartbeat, and accelerometer sensors and sends an SOS alert. To know more, please read <b><a href="https://github.com/gautham-2803/gautham-krishna-portfolio/files/13095136/HCIN_722__Team_2.pdf">this</a></b></li>
+  <li> An Arduino prototype (group project) to measure anxiety levels by leveraging sweat, temperature, heartbeat, and accelerometer sensors, and sends an SOS alert. To know more, please read <b><a href="https://github.com/gautham-2803/gautham-krishna-portfolio/files/13095136/HCIN_722__Team_2.pdf">this</a></b></li>
   <li>
-    A group project to visualize the growth of electric fuel stations in the state of Washington using Tableau and to predict the shortest route from point A to B in the case of disasters using ArcGIS Pro.
+    A group project to visualize the growth of electric fuel stations in Washington using Tableau and to predict the shortest route from point A to B in the case of disasters using ArcGIS Pro.
     <ul>
       <li><a href="https://github.com/gautham-2803/gautham-krishna-portfolio/files/13096849/ISTE782_FinalProject_Team3.pdf">Report</a></li>
       <li><a href="https://github.com/gautham-2803/gautham-krishna-portfolio/files/13097221/ISTE782_FinalProject_Team3.zip">Tableau</a></li>
@@ -62,7 +62,7 @@ A qualitative study was done to understand the different problems faced by inter
 </ul>
 <br/>
 
-##  🎉 Fun Stuff 
+## Fun Stuff 
 <ul>
   <li>A fun research proposal was made to design a productivity speaker to monitor students who tend to procrastinate and encourage them to focus on the task at hand.
     <ul>
