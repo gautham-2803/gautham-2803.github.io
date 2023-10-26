@@ -75,6 +75,11 @@ A qualitative study was done to understand the different problems faced by inter
   <li>A group study involving a methodological approach to understand the usability of two shopping websites used by Indian students in Rochester, NY. The study involved inquiring about the problems faced and proposing a possible solution prototype on Figma.<a href="https://spiky-temple-8f0.notion.site/HCIN-620-Information-And-Interaction-Design-a5831d466a3240c881e5ec220c18c4da"> Click Here</a></li>
 
 <li> An annotated bibliography focused on people with visual impairments: <a href ="https://github.com/gautham-2803/gautham-krishna-portfolio/files/13101679/AB_KrishnaGautham.pdf"> Click Here </a></li>
+<li> Fun projects in Grove that explore liaising with Python, IoT Messaging using MQTT and IFTTT.</li>
+  <ul>
+    <li> Arduino C codes: <a href ="https://github.com/gautham-2803/Arduino/tree/master/Fun%20Stuff"> Click Here </a></li>
+    <li> Python codes: <a href ="https://github.com/gautham-2803/Arduino/tree/master/Fun%20Stuff/Python"> Click Here </a></li>
+  </ul>
 </ul>
 
 ## Connect with me 
