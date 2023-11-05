@@ -7,10 +7,11 @@
 <br />
 An HCI researcher passionate about leveraging ML and IoT to create assistive technology in health care and affective computing (emotions).
 <li>Check out my resume <a href="https://people.rit.edu/gk2440/Resume/Gautham%20Krishna.pdf">here</a></li>
-<li> Click to <a href ="https://github.com/gautham-2803/gautham-2803.github.io/files/13171592/Gautham.Krishna.pdf">download</a></li>
+<li> Click to <a href ="https://github.com/gautham-2803/gautham-2803.github.io/files/13260523/Gautham.Krishna.pdf">download</a></li>
 
 
 <br/>
+
 
 
 ## Who Am I?
@@ -18,7 +19,7 @@ An HCI researcher passionate about leveraging ML and IoT to create assistive tec
   <li>Definitely not Batman 🦇</li>
   <li>Masters: Human-Computer Interaction, May 2024, RIT (United States)</li>
   <li>Bachelors: Information Technology, May 2020, SSNCE (India)</li>
-  <li>Interests: Accessibility by leveraging ML, and IoT; Android Programming, Human Behavior Analysis, Psychology.</li>
+  <li>Interests: Accessibility, Mental Health Analysis, Android Programming, Human Behavior Analysis, Psychology.</li>
 </ul>
 
 <br/>
@@ -26,13 +27,13 @@ An HCI researcher passionate about leveraging ML and IoT to create assistive tec
 ## I'm currently researching...
 
 <ul>
-    <li> Understanding the challenges faced by blind and low-vision people in collaborative exploration and building a prototype using ML to address them.
+    <li> Understanding the mental and social challenges faced by blind and low-vision people in collaborative exploration and building a prototype using ML to address them.
         <ul>
             <li>Prototype is an Android application that is used for object detection using Yolov5. Currently, the app gives voice feedback on the labels. The code is <a href ="https://github.com/gautham-2803/Object-Detection">here.</a>
             </li>
         </ul>
     </li>
-    <li>Exploring the challenges of social interactions between blind and low-vision Vision and sighted people, and evaluating emotions to improve them. Read the proposal at <a href ="https://github.com/gautham-2803/gautham-krishna-portfolio/files/13071856/Proposal_Social_interactions.pdf"> Proposal </a>.
+    <li>Exploring the challenges of social interactions between blind and low-vision and sighted people, and evaluating emotions to improve them. Read the proposal at <a href ="https://github.com/gautham-2803/gautham-krishna-portfolio/files/13071856/Proposal_Social_interactions.pdf"> Proposal </a>.
   </li>
 </ul>
 <br/>
