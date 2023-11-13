@@ -19,7 +19,7 @@ An HCI researcher passionate about leveraging novel technologies to create assis
   <li>Definitely not Batman 🦇</li>
   <li>Masters: Human-Computer Interaction, May 2024, RIT (United States)</li>
   <li>Bachelors: Information Technology, May 2020, SSNCE (India)</li>
-  <li>Interests: Accessibility, Mental Health Analysis, Android Programming, Human Behavior Analysis, Psychology.</li>
+  <li>Interests: Accessibility, Mental Health Analysis, Android Programming, Human Behavior Analysis.</li>
 </ul>
 
 <br/>
@@ -37,6 +37,16 @@ An HCI researcher passionate about leveraging novel technologies to create assis
   </li>
 </ul>
 <br/>
+
+## Academic Venues I've been to...
+<ul>
+  <li> Human-Computer Interaction Consortium 2023</li>
+  <ul>
+    <li> Topic: Supporting Online Trust and Safety, Privacy, and Security.</li>
+    <li> Location: Delavan, WI</li>
+    <li> Presented a boaster poster on prototyping an ML model for collaborative exploration challenges of visually impaired people. </li>
+  </ul>
+</ul>
 
 ## Prior Research
 <ul>
