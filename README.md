@@ -71,6 +71,11 @@ A qualitative study was done to understand the different problems faced by inter
         <li><a href="https://github.com/gautham-2803/gautham-krishna-portfolio/files/13099567/Experimental.Study.Plan.pdf">Experimental Study Plan</a></li>
     </ul>
   </li>
+  <li> A literature review to gather the alternative channels of communication in therapeutic sessions to increase participation from people with cognitive impairments. 
+    <ul>
+      <li><a href="https://github.com/gautham-2803/gautham-2803.github.io/files/14142698/Final_Paper_Krishna_Gautham.pdf">Report</a></li>
+    </ul>
+  </li>
   <li> Usability testing for EagleView's application. The group conducted a heuristic evaluation of the web application and provided design recommendations based on Donald Norman's design principles and general UX heuristics. </li>
 </ul>
 <br/>
@@ -88,6 +93,11 @@ A qualitative study was done to understand the different problems faced by inter
   <li>A group study involving a methodological approach to understand the usability of two shopping websites used by Indian students in Rochester, NY. The study involved inquiring about the problems faced and proposing a possible solution prototype on Figma.<a href="https://spiky-temple-8f0.notion.site/HCIN-620-Information-And-Interaction-Design-a5831d466a3240c881e5ec220c18c4da"> Click Here</a></li>
 
 <li> An annotated bibliography focused on people with visual impairments: <a href ="https://github.com/gautham-2803/gautham-krishna-portfolio/files/13101679/AB_KrishnaGautham.pdf"> Click Here </a></li>
+<li> A group study recreating the working of an electric car using sensors and IoT devices. 
+  <ul>
+    <li><a href="https://gautham-2803.github.io/Arduino/">Project Description</a></li>
+  </ul>
+</li>
 <li> Fun projects in Grove that explore liaising with Python, IoT Messaging using MQTT and IFTTT.</li>
   <ul>
     <li> Arduino C codes: <a href ="https://github.com/gautham-2803/Arduino/tree/master/Fun%20Stuff"> Click Here </a></li>
